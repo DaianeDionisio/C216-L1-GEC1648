@@ -1,0 +1,15 @@
+{
+  "name": "pratica-2",
+  "version": "1.0.0",
+  "description": "Métodos HTTP e utilizando Restify",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "Não há testes configurados"
+  },
+  "dependencies": {
+    "restify": "^8.5.1"
+  },
+  "author": "Daiane Dionisio de Lima - 1648",
+  "license": "ISC"
+}
