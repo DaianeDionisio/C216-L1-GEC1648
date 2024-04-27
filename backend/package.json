@@ -1,14 +1,15 @@
 {
-  "name": "pratica-3",
+  "name": "pratica-4",
   "version": "1.0.0",
-  "description": "Preparando um Middleware para CRUD",
+  "description": "CRUD com PostgreSQL e Restify",
   "main": "index.js",
   "scripts": {
     "start": "node src/index.js",
     "test": "Não há testes configurados"
   },
   "dependencies": {
-    "restify": "^8.5.1"
+    "restify": "^8.5.1",
+    "pg": "^8.11.5"
   },
   "author": "Daiane Dionisio de Lima - 1648",
   "license": "ISC"
