@@ -1,7 +1,7 @@
 {
-  "name": "pratica-4",
+  "name": "pratica-5",
   "version": "1.0.0",
-  "description": "CRUD com PostgreSQL e Restify",
+  "description": "Frontend com Flask",
   "main": "index.js",
   "scripts": {
     "start": "node src/index.js",
