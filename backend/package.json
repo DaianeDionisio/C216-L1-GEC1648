@@ -1,7 +1,7 @@
 {
-  "name": "pratica-5",
+  "name": "pratica-6",
   "version": "1.0.0",
-  "description": "Frontend com Flask",
+  "description": "Estilização do frontend com Bootstrap",
   "main": "index.js",
   "scripts": {
     "start": "node src/index.js",
