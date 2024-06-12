@@ -15,6 +15,7 @@ var server = restify.createServer({
     name: 'pratica-6',
 });
 
+
 // iniciar o servidor
 var server = restify.createServer({
     name: 'pratica-6',
